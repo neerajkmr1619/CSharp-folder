@@ -1,0 +1,11 @@
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.csprojAssemblyReference.cache
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.csproj.CoreCompileInputs.cache
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.AssemblyInfoInputs.cache
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.AssemblyInfo.cs
+C:\Users\neeraj\Desktop\C#InterviewPrepration\bin\Debug\netcoreapp2.2\C#InterviewPrepration.deps.json
+C:\Users\neeraj\Desktop\C#InterviewPrepration\bin\Debug\netcoreapp2.2\C#InterviewPrepration.runtimeconfig.json
+C:\Users\neeraj\Desktop\C#InterviewPrepration\bin\Debug\netcoreapp2.2\C#InterviewPrepration.runtimeconfig.dev.json
+C:\Users\neeraj\Desktop\C#InterviewPrepration\bin\Debug\netcoreapp2.2\C#InterviewPrepration.dll
+C:\Users\neeraj\Desktop\C#InterviewPrepration\bin\Debug\netcoreapp2.2\C#InterviewPrepration.pdb
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.dll
+C:\Users\neeraj\Desktop\C#InterviewPrepration\obj\Debug\netcoreapp2.2\C#InterviewPrepration.pdb
